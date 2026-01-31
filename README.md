@@ -47,3 +47,7 @@ Cada projeto segue, sempre que aplicável, a seguinte metodologia:
   -Documentação final
   
 Esta abordagem visa garantir consistência, rastreabilidade e rigor técnico.
+
+5. Nota final
+
+Este repositório destina-se tanto a fins académicos como a portfólio técnico profissional, refletindo uma abordagem de engenharia completa, fundamentada e verificável.
