@@ -1,4 +1,5 @@
-#📡 Electronics Projects Lab
+📡 Electronics Projects Lab
+
 1. Visão geral
 
 Este repositório agrega um conjunto de projetos de eletrónica analógica, digital, mista e sistemas embebidos, cobrindo todo o ciclo de desenvolvimento de engenharia, desde a conceção teórica e modelação matemática até à implementação em hardware, firmware e validação experimental.
