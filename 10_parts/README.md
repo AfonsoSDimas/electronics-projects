@@ -1,0 +1,1 @@
+Contem as partes escolhidas para o projeto designado
