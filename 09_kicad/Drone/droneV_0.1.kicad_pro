@@ -613,6 +613,26 @@
     [
       "ada5ad45-28f0-4ae7-ae0a-b30a5e3b57db",
       "Root"
+    ],
+    [
+      "50214e54-ef72-421e-9f12-5a0af3e3bde0",
+      "POWER SUPPLY"
+    ],
+    [
+      "4ac540bf-510e-4b18-b0a7-cfde858b642a",
+      "SENSORS"
+    ],
+    [
+      "85475d6f-2ba0-4502-a40e-9b61e09e9f6a",
+      "BATTERY"
+    ],
+    [
+      "b6b57482-2cbe-480f-86ed-2bcb013a51ed",
+      "MICROCONTROLLER"
+    ],
+    [
+      "3745f806-8b76-4d49-9e91-f2f4d49627ef",
+      "COMMS"
     ]
   ],
   "text_variables": {}
