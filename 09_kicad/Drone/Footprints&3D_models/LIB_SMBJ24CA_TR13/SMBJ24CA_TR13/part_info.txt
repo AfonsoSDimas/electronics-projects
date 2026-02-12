@@ -1,0 +1,9 @@
+Manufacturer=YAGEO
+PartNumber=SMBJ24CA/TR13
+PartCategory=TVS Diode (Bi-directional)
+PackageCategory=Diodes Moulded Non Polarised
+PinCount=2
+Version=1.1
+Released=2025-12-23 10:13:10
+Downloaded=2026-02-05 15:40:35
+3D=Y

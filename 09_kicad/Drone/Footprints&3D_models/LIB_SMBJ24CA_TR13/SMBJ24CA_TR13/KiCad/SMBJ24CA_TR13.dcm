@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP SMBJ24CA_TR13
+D 38.9V Clamp 15.5A Ipp Tvs Diode Surface Mount DO-214AA (SMB)
+K
+F https://4donline.ihs.com/images/VipMasterIC/IC/MCBU/MCBUS00041/MCBUS00041-1.pdf?hkey=61A2E4C270F0397D049F8F05BD4F1054
+$ENDCMP
+#
+#End Doc Library

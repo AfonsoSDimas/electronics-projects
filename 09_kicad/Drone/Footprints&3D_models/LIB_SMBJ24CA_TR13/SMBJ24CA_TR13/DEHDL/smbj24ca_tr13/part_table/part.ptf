@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'SMBJ24CA_TR13'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "YAGEO", "SMBJ24CA/TR13" (!) = "", "DIONM5436X265N", "Diodes Moulded Non Polarised", "603-SMBJ24CA/TR13", "https://www.mouser.co.uk/ProductDetail/YAGEO/SMBJ24CA-TR13?qs=PzGy0jfpSMvGAe65GS0rOg%3D%3D", "38.9V Clamp 15.5A Ipp Tvs Diode Surface Mount DO-214AA (SMB)", "https://4donline.ihs.com/images/VipMasterIC/IC/MCBU/MCBUS00041/MCBUS00041-1.pdf?hkey=61A2E4C270F0397D049F8F05BD4F1054", "2.65 mm"
+END_PART
+
+END.

@@ -1,0 +1,66 @@
+(Japanese_coding: sjis)
+(function "ECS_21317060"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2025-12-23-10:13:10)
+    (utime 2026-02-04-14:20:06)
+    (interface
+        (port "1" (symbPinId 1) (portType INOUT))
+        (port "2" (symbPinId 2) (portType INOUT))
+    )
+    (property "symbolName" "SMBJ24CA_TR13")
+)
+
+
+(pinAssign "ECS_21317060"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2025-12-23-10:13:10)
+    (utime 2026-02-04-14:20:06)
+    (interface
+        (port "1" (symbPinId 1) (portName "1") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "2") (portType INOUT))
+    )
+    (internal
+        (funcInst (functionRef "ECS_21317060")
+                (port "1" (match "1"))
+                (port "2" (match "2"))
+        )
+    )
+    (property "usePowerBox" "No")
+    (property "symbolName" "SMBJ24CA_TR13")
+)
+
+
+(part "SMBJ24CA_TR13"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2025-12-23-10:13:10)
+    (utime 2026-02-04-14:20:06)
+    (packageRef "SMBJ24CA_TR13")
+    (pinAssignRef "ECS_21317060")
+    (interface
+        (port "1" (symbPinId 1) (portName "1") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "2") (portType INOUT))
+    )
+    (partClass UNDEF)
+    (useInSchema Y)
+    (useInLayout Y)
+    (inPartsList Y)
+    (partType NORMAL)
+    (placeRestriction FREE)
+    (property "enetNonSeries" "NO")
+    (property "refDesPrefix" "D")
+    (property "description" "38.9V Clamp 15.5A Ipp Tvs Diode Surface Mount DO-214AA (SMB)")
+    (property "Mouser_Part_Number" "603-SMBJ24CA/TR13")
+    (property "Mouser_Price/Stock" "https://www.mouser.co.uk/ProductDetail/YAGEO/SMBJ24CA-TR13?qs=PzGy0jfpSMvGAe65GS0rOg%3D%3D")
+    (property "Manufacturer_Name" "YAGEO")
+    (property "Manufacturer_Part_Number" "SMBJ24CA/TR13")
+    (property "Datasheet_Link" "https://4donline.ihs.com/images/VipMasterIC/IC/MCBU/MCBUS00041/MCBUS00041-1.pdf?hkey=61A2E4C270F0397D049F8F05BD4F1054")
+    (property "compAreaTopHeight" 2.65)
+)
+
+
